@@ -1,5 +1,5 @@
 ---
-title: My New Example Blog
+title: Hi There, I'm Cameron!
 description: A wicked cool server-less CMS
 ---
 Some Body copy
